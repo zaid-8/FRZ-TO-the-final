@@ -1,0 +1,24 @@
+{
+  "designTargets": 60,
+  "sourceActions": 781,
+  "results": [
+    {
+      "mode": "normal",
+      "frames": 60,
+      "links": 805,
+      "nativeNodes": 3498,
+      "images": 15,
+      "warnings": []
+    },
+    {
+      "mode": "one_reaction_failure",
+      "frames": 60,
+      "links": 804,
+      "nativeNodes": 3498,
+      "images": 15,
+      "warnings": [
+        "Link journey:ummqais: Injected rejected reaction"
+      ]
+    }
+  ]
+}
