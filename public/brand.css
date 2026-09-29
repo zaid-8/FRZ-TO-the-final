@@ -1,8 +1,0 @@
-.brand .brand-logo{display:block;width:100%;height:100%;object-fit:contain;flex:none}
-.site-header{padding-block:4px}
-.site-header .brand{display:flex;align-items:center;justify-content:center;width:92px;height:78px;padding:0;gap:0;border-radius:12px;overflow:hidden}
-.footer-story>.brand{width:178px;height:178px;gap:0;margin-block:-10px 0}
-.credits-brand{width:150px;height:150px;margin-bottom:20px;border-radius:18px;background:#101a17;padding:4px}
-[data-theme=light] .site-header .brand{background:#263d32}
-@media(max-width:720px){.site-header{padding-block:4px;row-gap:4px}.site-header .brand{width:76px;height:64px}.footer-story>.brand{width:155px;height:155px}}
-@media(max-width:370px){.site-header .brand{width:68px;height:61px}}
